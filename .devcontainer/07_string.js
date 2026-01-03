@@ -18,3 +18,5 @@ console.log(gamename.indexOf('i'))
 
  const newStringOne = " Hitesh "
  console.log(newStringOne)
+ console.log(newStringOne)
+ console.log(newStringOne.trim())
