@@ -1,3 +1,4 @@
-function chai(){
-//     console.log("DB Connected")
-// })(
+for (let index = 0; index < array.length; index++) {
+//     const element = array[index];
+    
+// }
